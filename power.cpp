@@ -14,5 +14,5 @@ long long Pow(int X, int N)
 }
 int main()
 {
-cout<<Pow(5,5);
+cout<<Pow(2,5);
 }
